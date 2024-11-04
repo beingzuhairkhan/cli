@@ -1,0 +1,22 @@
+{
+  "name": "z",
+  "version": "1.0.0",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "zuhair khan",
+  "license": "ISC",
+  "description": "A simple Express app with MongoDB connection",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "chalk": "^5.3.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "inquirer": "^12.0.1",
+    "ioredis": "^5.4.1",
+    "mongoose": "^8.8.0"
+  }
+}
