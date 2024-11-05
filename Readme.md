@@ -1,1 +1,1 @@
-npm install z
+npx create-app-z
